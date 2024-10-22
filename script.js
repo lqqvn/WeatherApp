@@ -5,12 +5,12 @@ const weatherTranslations = {
     "few clouds": "少雲",
     "scattered clouds": "散在雲",
     "broken clouds": "曇り",
+    "overcast clouds": "厚い雲",
     "shower rain": "にわか雨",
     "rain": "雨",
     "thunderstorm": "雷雨",
     "snow": "雪",
-    "mist": "霧",
-    "overcast clouds": "曇り空"
+    "mist": "霧"
     // Add more translations as needed
 };
 
