@@ -9,7 +9,8 @@ const weatherTranslations = {
     "rain": "雨",
     "thunderstorm": "雷雨",
     "snow": "雪",
-    "mist": "霧"
+    "mist": "霧",
+    "overcast clouds": "曇り空"
     // Add more translations as needed
 };
 
